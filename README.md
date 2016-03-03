@@ -5,7 +5,6 @@ Soy diseñador y programador web. Estudiante de Universidad del valle de Orizaba
 ## Contacto
 
 
-* ing.alvarolima@gmail.com
 * https://twitter.com/alvarolimadb
 * https://facebook.com/alvarolimadb
 
@@ -14,5 +13,8 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2016 Álvaro Lima - Lim Systems - UniVO
+
+www.limcode.com
+
 
 
