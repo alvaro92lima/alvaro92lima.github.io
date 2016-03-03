@@ -15,6 +15,4 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 
 Copyright 2016 Álvaro Lima - Lim Systems - UniVO
 
-Hola
-
 
